@@ -39,15 +39,3 @@ for i in range(0,kisisayisi):
 
 
 
-#rol = random.choice(karakterler1)
-#rol2 = random.choice(karakterler1)
-#rol3 = random.choice(karakterler1)
-#rol4 = random.choice(karakterler1)
-
-#print(f"{kisiler[0]} kişisi rastgele şu karakterle eşleşti: {rol}")
-#input("2.Kişiye Geçmek İçin Herhangi bir tuşa basınız.")
-#print(f"{kisiler[1]} kişisi rastgele şu karakterle eşleşti: {rol2}")
-#input("3.Kişiye Geçmek İçin Herhangi bir tuşa basınız.")
-#print(f"{kisiler[2]} kişisi rastgele şu karakterle eşleşti: {rol3}")
-#input("4.Kişiye Geçmek İçin Herhangi bir tuşa basınız.")
-#print(f"{kisiler[3]} kişisi rastgele şu karakterle eşleşti: {rol4}")
